@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Savidracz-fatal
-- 🌱 I’m currently learning python
+- Bruh
 
 <!---
 Savidracz-fatal/Savidracz-fatal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
